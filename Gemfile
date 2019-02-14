@@ -60,6 +60,8 @@ group :test do
   gem 'rspec-rails', '~> 3.8', '>= 3.8.2'
   gem 'factory_girl_rails', '~> 4.9'
   gem 'ffaker', '~> 2.10'
+  gem 'shoulda-matchers', '~> 3.1', '>= 3.1.3'
+  gem 'rails-controller-testing'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
