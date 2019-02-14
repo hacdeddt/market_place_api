@@ -69,3 +69,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #api
 gem 'active_model_serializers', '~> 0.10.9'
+gem 'devise', '~> 4.6', '>= 4.6.1'
